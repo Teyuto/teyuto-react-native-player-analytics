@@ -1,0 +1,25 @@
+{
+    "name": "teyuto-react-native-analytics-sdk",
+    "version": "0.1.0",
+    "description": "Video analytics SDK for React Native applications using the Teyuto platform",
+    "main": "src/index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "react-native",
+      "video",
+      "analytics",
+      "teyuto"
+    ],
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "axios": "^0.21.1"
+    },
+    "peerDependencies": {
+      "react": ">=16.8.0",
+      "react-native": ">=0.60.0",
+      "react-native-video": ">=5.0.0"
+    }
+  }
