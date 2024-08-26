@@ -84,10 +84,10 @@ export default VideoPlayer;
 
 Initializes the Teyuto analytics for a video player.
 
-- `channelId` (string): Your Teyuto channel ID (required)
-- `videoId` (string): The ID of the video being played (required)
-- `player` (object): The video player instance (required)
-- `token` (string, optional): Authentication token for Teyuto API  (optional)
+- `channelId` (string): Your Teyuto channel ID
+- `videoId` (string): The ID of the video being played
+- `player` (object): The video player instance
+- `token` (string, optional): Authentication token for Teyuto API
 
 Returns an object with a `destroy` method to clean up the analytics when no longer needed.
 
