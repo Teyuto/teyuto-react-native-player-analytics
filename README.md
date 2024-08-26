@@ -41,7 +41,7 @@ yarn add teyuto-react-native-analytics
 1. Import the SDK and your video player component:
 
 ```javascript
-import Video from 'react-native-video'; // or any other video player
+import Video from 'react-native-video';
 import initializeTeyutoAnalytics from 'teyuto-react-native-analytics';
 ```
 
@@ -49,7 +49,7 @@ import initializeTeyutoAnalytics from 'teyuto-react-native-analytics';
 
 ```jsx
 import React, { useRef, useEffect } from 'react';
-import Video from 'react-native-video'; // or any other video player
+import Video from 'react-native-video';
 import initializeTeyutoAnalytics from 'teyuto-react-native-analytics';
 
 const VideoPlayer = ({ source, channelId, videoId, token }) => {
