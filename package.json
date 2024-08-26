@@ -1,5 +1,5 @@
 {
-    "name": "teyuto-react-native-analytics-sdk",
+    "name": "teyuto-react-native-analytics",
     "version": "0.1.0",
     "description": "Video analytics SDK for React Native applications using the Teyuto platform",
     "main": "src/index.js",
