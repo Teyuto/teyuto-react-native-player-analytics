@@ -12,7 +12,7 @@
       "analytics",
       "teyuto"
     ],
-    "author": "Your Name",
+    "author": "Teyuto",
     "license": "MIT",
     "dependencies": {
       "axios": "^0.21.1"
